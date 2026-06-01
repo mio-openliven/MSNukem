@@ -1,5 +1,264 @@
 {
   "version": 1,
-  "generated_at": "2026-05-31T22:02:02.246661+00:00",
-  "files": []
+  "generated_at": "2026-06-01T02:23:35.937194+00:00",
+  "files": [
+    {
+      "path": "mods/bbs-1.7.7-1.20.1.jar",
+      "sha256": "2cebb202191b5b8f61272506a04fb1531487e0f73eba56f44101d8671808991d",
+      "size": 5994375,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/bbs-1.7.7-1.20.1.jar"
+    },
+    {
+      "path": "mods/bbs_extended_sync-1.0.0-1.20.1 (1).jar",
+      "sha256": "1c0896fb58218c8c19cf7e1da9cbeb8d1bcd75d27a319de34c265f753f6b07ef",
+      "size": 342462,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/bbs_extended_sync-1.0.0-1.20.1%20%281%29.jar"
+    },
+    {
+      "path": "mods/campositions-1.0.0.jar",
+      "sha256": "62d8f55d27b0a4ace724338d3649579ceefd9fcb9acf41469ba14bcf6e065a61",
+      "size": 46425,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/campositions-1.0.0.jar"
+    },
+    {
+      "path": "mods/copycats-3.0.7+mc.1.20.1-fabric.jar",
+      "sha256": "9e7ef992fe54a41e864d4b78d0a41091f09e88dcc3b2772b611377b0938c6e42",
+      "size": 1996934,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/copycats-3.0.7%2Bmc.1.20.1-fabric.jar"
+    },
+    {
+      "path": "mods/create-fabric-6.0.8.1-build.1744-mc1.20.1.jar",
+      "sha256": "f8ffe78e16f9f3f7b1cb2661ce35fcc6d80432beb2301d455feea3ecd6539661",
+      "size": 31956732,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/create-fabric-6.0.8.1-build.1744-mc1.20.1.jar"
+    },
+    {
+      "path": "mods/createbigcannons-5.11.2-mc.1.20.1-fabric.jar",
+      "sha256": "d6af22fcb35e6a956e7f670b180e9b3a0300e9b31b3a0390a31e7b877e4c808a",
+      "size": 6329896,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/createbigcannons-5.11.2-mc.1.20.1-fabric.jar"
+    },
+    {
+      "path": "mods/createdeco-2.1.1-1.20.1-fabric.jar",
+      "sha256": "7a72ee9c8da0b478256263c1e75ad4541b902cffb3c314bdb91850ead6fcfd4a",
+      "size": 3492044,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/createdeco-2.1.1-1.20.1-fabric.jar"
+    },
+    {
+      "path": "mods/createunlimited-0.7.1.jar",
+      "sha256": "dd785e26646943bdb90a935057b851fee637c180eb4ecc5346d1c4769ba141e4",
+      "size": 318949,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/createunlimited-0.7.1.jar"
+    },
+    {
+      "path": "mods/CustomPlayerModels-Fabric-1.20-0.6.25a.jar",
+      "sha256": "2228d158b1a2783ec4b56a403d704c66c65da8c35f8ccf5c4e133802dc1994f4",
+      "size": 2834332,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/CustomPlayerModels-Fabric-1.20-0.6.25a.jar"
+    },
+    {
+      "path": "mods/decocraft-3.0.7-1.20.1-fabric.jar",
+      "sha256": "9f201153f5ffaff8c18af2b1fa153baa531da0bc62510bf2d0f2c292cdcda5b9",
+      "size": 93791809,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/decocraft-3.0.7-1.20.1-fabric.jar"
+    },
+    {
+      "path": "mods/doomsday_decoration-1.1.3-fabric-1.20.1.jar",
+      "sha256": "81cbbb272e6b8a4612cf387f685f278cb4589477ca506f662675f5903369bf8d",
+      "size": 6611043,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/doomsday_decoration-1.1.3-fabric-1.20.1.jar"
+    },
+    {
+      "path": "mods/enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar",
+      "sha256": "27edcceb54b33d733e83856c59a01bb9e2d9fa555c108a0893c343b542e823b8",
+      "size": 233651,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar"
+    },
+    {
+      "path": "mods/fabric-api-0.92.71.20.1.jar",
+      "sha256": "d5e7750a599ee23d1e8ce1716f27c4761f4e7a84e8a08d5eb8f0ad8c155c8cb1",
+      "size": 2107977,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/fabric-api-0.92.71.20.1.jar"
+    },
+    {
+      "path": "mods/fabric-api-0.92.9%2B1.20.1.jar",
+      "sha256": "4056979ccaa1012354dfff14f39fdb085aefb3f1e0224ff45c3af41e4ffed5fd",
+      "size": 2111565,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/fabric-api-0.92.9%252B1.20.1.jar"
+    },
+    {
+      "path": "mods/fabric-api-0.92.9_2B1.20.1.jar",
+      "sha256": "4056979ccaa1012354dfff14f39fdb085aefb3f1e0224ff45c3af41e4ffed5fd",
+      "size": 2111565,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/fabric-api-0.92.9_2B1.20.1.jar"
+    },
+    {
+      "path": "mods/FakenameFabric-1.2.0.0.jar",
+      "sha256": "c2502cbff1285cc45b9b0ee7fe8ca0fc5c61402c5ecc1c991aaa75ba5a800822",
+      "size": 99393,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/FakenameFabric-1.2.0.0.jar"
+    },
+    {
+      "path": "mods/flycommand-1.0.8.jar",
+      "sha256": "5e302b2764ffa7e7f69f16a758ff4b535f0ce35877704691bf96303fe924ed7d",
+      "size": 22785,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/flycommand-1.0.8.jar"
+    },
+    {
+      "path": "mods/fusion-1.2.12-fabric-mc1.20.1.jar",
+      "sha256": "cee7755d3a37dc8838c15ac420c3c745a437ba0713e7c4309139adf7f05a34af",
+      "size": 515916,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/fusion-1.2.12-fabric-mc1.20.1.jar"
+    },
+    {
+      "path": "mods/geckolib-fabric-1.20.1-4.8.3.jar",
+      "sha256": "6f5d84c8eafd67b911d2a335bacfbe281773dcdb52435c742dd894e21c39df1b",
+      "size": 1069328,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/geckolib-fabric-1.20.1-4.8.3.jar"
+    },
+    {
+      "path": "mods/hidenames-1.0.0.jar",
+      "sha256": "ee7ec8014a054bbf729c2f151836ebb3c1c0242650517b53e2e918ce7f3e6891",
+      "size": 15505,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/hidenames-1.0.0.jar"
+    },
+    {
+      "path": "mods/indium-1.0.36+mc1.20.1.jar",
+      "sha256": "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
+      "size": 105382,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/indium-1.0.36%2Bmc1.20.1.jar"
+    },
+    {
+      "path": "mods/interiors-1.20.1-fabric-0.6.0 (2).jar",
+      "sha256": "7c31fef2048998a1765a37f01c491678071c74b6c7dca9976f844f6bb36df3f0",
+      "size": 639871,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/interiors-1.20.1-fabric-0.6.0%20%282%29.jar"
+    },
+    {
+      "path": "mods/litematica-fabric-1.20.1-0.15.4.jar",
+      "sha256": "ddfcce1c069980e3f88900e69a8762548e5422511c09b323df7005ff00e80c85",
+      "size": 923876,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/litematica-fabric-1.20.1-0.15.4.jar"
+    },
+    {
+      "path": "mods/lithium-fabric-mc1.20.1-0.11.4.jar",
+      "sha256": "76133efe92aea907cf75562d9e26517deb170e2580e1ecd4979da2c8902de782",
+      "size": 691483,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/lithium-fabric-mc1.20.1-0.11.4.jar"
+    },
+    {
+      "path": "mods/malilib-fabric-1.20.1-0.16.3.jar",
+      "sha256": "5ae189f27fbd49aa48e83e00251fe1d75c3e42c74f55575ae4e0a232ad0c3589",
+      "size": 545403,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/malilib-fabric-1.20.1-0.16.3.jar"
+    },
+    {
+      "path": "mods/metki-1.20.1-fabric-1.0.0.jar",
+      "sha256": "a954d991f56e94230771b3b3052f46debaa27034196b269d1914c3c4b77d42ca",
+      "size": 123891,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/metki-1.20.1-fabric-1.0.0.jar"
+    },
+    {
+      "path": "mods/mobdismembermentfabric-1.20.1-1.1.0.jar",
+      "sha256": "711d7ff0e5ef1ef9711e405b66028601efd45698badda5450ccc7bdc5dac8c0f",
+      "size": 33145,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/mobdismembermentfabric-1.20.1-1.1.0.jar"
+    },
+    {
+      "path": "mods/nuckemskins-0.4.6.jar",
+      "sha256": "7540ea0a0dc58ce9afc2ae8a9d1de52816d3c29a66b2591cbfbbbac06dd63280",
+      "size": 67944,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/nuckemskins-0.4.6.jar"
+    },
+    {
+      "path": "mods/pointblank-fabric-1.20.1-1.11.1.jar",
+      "sha256": "cd38c40d1670155bbc75ac5d659095e0a8a90fee384b58c4d99442efc5d11df6",
+      "size": 17617617,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/pointblank-fabric-1.20.1-1.11.1.jar"
+    },
+    {
+      "path": "mods/punchy-2.5.5-fabric-1.20.1.jar",
+      "sha256": "c95eec340e56a67e1e3b2207b9beefd5cef7b993b6af81e5a0ae77fe2b04da42",
+      "size": 1697884,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/punchy-2.5.5-fabric-1.20.1.jar"
+    },
+    {
+      "path": "mods/rechiseled-1.2.4-fabric-mc1.20.1.jar",
+      "sha256": "36d30fe1c2e747d3c2358df952144b2fbe38283d8db0dfdb16dddfb0e08e9ec4",
+      "size": 11919992,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/rechiseled-1.2.4-fabric-mc1.20.1.jar"
+    },
+    {
+      "path": "mods/replaymod-1.20.1-2.6.23.jar",
+      "sha256": "a46491d73456187ac888d31f6cc1160e42304427a63da88874c84abeb4d14033",
+      "size": 14739015,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/replaymod-1.20.1-2.6.23.jar"
+    },
+    {
+      "path": "mods/skinrestorer-2.6.0+1.20-fabric.jar",
+      "sha256": "1ea9014900a27bf7cef7fe11e2770d0fc05910a193fa5ecf7e11bbe267498875",
+      "size": 246000,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/skinrestorer-2.6.0%2B1.20-fabric.jar"
+    },
+    {
+      "path": "mods/sodium-fabric-0.5.13+mc1.20.1.jar",
+      "sha256": "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
+      "size": 971552,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/sodium-fabric-0.5.13%2Bmc1.20.1.jar"
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+      "sha256": "fe76c8cf001878109adbdd2f4ef877b76ddfdefdca91ff9b90353c2e8af8022c",
+      "size": 207990,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar"
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.20-fabric-mc1.20.1.jar",
+      "sha256": "f25ffb8cd735f9b388768040f3eb48be74628a75f2d566e11dde19eb38cce037",
+      "size": 602735,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/supermartijn642corelib-1.1.20-fabric-mc1.20.1.jar"
+    },
+    {
+      "path": "mods/tl_skin_cape_fabric_1.20_1.20.1-1.38.jar",
+      "sha256": "eeba69baa1a8a5b2dfc557a62829cb01948dfc756176232d2c404d8880bd9fa3",
+      "size": 1208428,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/tl_skin_cape_fabric_1.20_1.20.1-1.38.jar"
+    },
+    {
+      "path": "mods/vanilla-permissions-0.3.5+1.20.1.jar",
+      "sha256": "f99fe2574fd3f20c575c283d08bce9226a707a3fad0ea5d2cff6e4b4fb30030c",
+      "size": 91021,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/vanilla-permissions-0.3.5%2B1.20.1.jar"
+    },
+    {
+      "path": "mods/window-1.0.0-fabric-1.20.1.jar",
+      "sha256": "d76563cd221444f7957ddd40e413cab335efc57fd38bd9856c380203b9a25458",
+      "size": 13807,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/window-1.0.0-fabric-1.20.1.jar"
+    },
+    {
+      "path": "mods/worldedit-mod-7.2.15-1.20.1-fabric-forge (1).jar",
+      "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+      "size": 5825402,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/worldedit-mod-7.2.15-1.20.1-fabric-forge%20%281%29.jar"
+    },
+    {
+      "path": "mods/WorldEditCUI-1.20+01.jar",
+      "sha256": "f3fdee50b6a493c102a65655907a43939012a710adb17e9fc46815cc6ad102c1",
+      "size": 577426,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/WorldEditCUI-1.20%2B01.jar"
+    },
+    {
+      "path": "mods/wraith-harvestscythes-2.5.6+mc1.20 (1).jar",
+      "sha256": "9066acf8040ff60156f71a49ee1a7bff76dec0ba84e4fca307ce442c2ff43371",
+      "size": 366540,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/wraith-harvestscythes-2.5.6%2Bmc1.20%20%281%29.jar"
+    },
+    {
+      "path": "mods/xaeroworldmap-fabric-1.20.1-1.40.11.jar",
+      "sha256": "b3f4cb305708175d6a1eab2fd7d72d10d399ba9dafd3fbfff8cea0f2b4b60f5f",
+      "size": 1409403,
+      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/xaeroworldmap-fabric-1.20.1-1.40.11.jar"
+    }
+  ]
 }
