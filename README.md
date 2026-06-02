@@ -1,16 +1,30 @@
 # MS Nukem Client
 
-Public download and release page for the MS Nukem launcher client.
+Public download and release page for a test MS Nukem launcher build.
 
-This repository is intentionally small and public. It is used to give players a clear place to download the launcher and read basic instructions. The launcher source code, admin tooling, protected modpack logic, passwords, and private server configuration are not published here.
+MS Nukem is a creator/server-specific launcher sample prepared for the Nuckem team. The practical goal is simple: a player downloads the launcher, enters a nickname, unlocks the correct mod build if needed, clicks **Download Mods**, and can start testing without manually installing modpacks or hunting for missing files.
+
+Related creator link: [Nuckem on YouTube](https://youtube.com/@nuckem?si=8B60TLzrzN8HVh98)
+
+## Project Status
+
+This repository is a public client delivery channel, not the launcher source repository.
+
+- **Useful now:** yes, as a test download/release page for players and testers.
+- **Production-ready:** not fully. It is a beta delivery flow while the launcher, hosting, signing, and admin panel are still being hardened.
+- **Main risk:** unsigned Windows builds may trigger SmartScreen warnings until the project has proper signing and reputation.
+- **If needed:** the launcher and release process can be finished further for a cleaner production rollout.
 
 ## For Players
 
 1. Download the latest launcher release from the **Releases** section.
 2. Run the setup file.
-3. Open the launcher, enter your Minecraft nickname, select **MS Nuckem**, and follow the instructions from the server admin.
-4. If the modpack requires access, enter the build password given by the admin.
-5. Click **Download Mods**, wait for the sync to finish, then click **Play**.
+3. Open the launcher and enter your Minecraft nickname.
+4. Select **MS Nuckem** if it is not already selected.
+5. Enter the build password from the server admin if the modpack is protected.
+6. Click **Download Mods**, wait for the sync to finish, then click **Play**.
+
+The intention is to remove the usual modpack headache: no manual folder copying, no guessing which version is current, and no private files listed in this public repository.
 
 ## Notes About Windows SmartScreen
 
@@ -28,4 +42,4 @@ Only download files from this repository or the official project link given by t
 
 ## Author Note
 
-MS Nukem client delivery is maintained as part of the MSLaunch learning-and-shipping workflow: build a working MVP, test it with real users, document what matters, and keep private internals private.
+This repository exists as a clean public edge for a private server/client workflow. The private parts stay private; the player-facing download instructions stay simple.
