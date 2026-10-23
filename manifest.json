@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-01T02:23:35.937194+00:00",
+  "generated_at": "2026-10-23T21:26:55.599324+00:00",
   "files": [
     {
       "path": "mods/bbs-1.7.7-1.20.1.jar",
@@ -73,18 +73,6 @@
       "sha256": "27edcceb54b33d733e83856c59a01bb9e2d9fa555c108a0893c343b542e823b8",
       "size": 233651,
       "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar"
-    },
-    {
-      "path": "mods/fabric-api-0.92.71.20.1.jar",
-      "sha256": "d5e7750a599ee23d1e8ce1716f27c4761f4e7a84e8a08d5eb8f0ad8c155c8cb1",
-      "size": 2107977,
-      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/fabric-api-0.92.71.20.1.jar"
-    },
-    {
-      "path": "mods/fabric-api-0.92.9%2B1.20.1.jar",
-      "sha256": "4056979ccaa1012354dfff14f39fdb085aefb3f1e0224ff45c3af41e4ffed5fd",
-      "size": 2111565,
-      "url": "https://raw.githubusercontent.com/mio-openliven/MSNukem/main/mods/fabric-api-0.92.9%252B1.20.1.jar"
     },
     {
       "path": "mods/fabric-api-0.92.9_2B1.20.1.jar",
